@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\AbstractTask\AbstractTask\bin\Debug\net8.0\AbstractTask.exe
+C:\Users\User\Desktop\AbstractTask\AbstractTask\bin\Debug\net8.0\AbstractTask.deps.json
+C:\Users\User\Desktop\AbstractTask\AbstractTask\bin\Debug\net8.0\AbstractTask.runtimeconfig.json
+C:\Users\User\Desktop\AbstractTask\AbstractTask\bin\Debug\net8.0\AbstractTask.dll
+C:\Users\User\Desktop\AbstractTask\AbstractTask\bin\Debug\net8.0\AbstractTask.pdb
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\AbstractTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\AbstractTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\AbstractTask.AssemblyInfo.cs
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\AbstractTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\AbstractTask.dll
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\refint\AbstractTask.dll
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\AbstractTask.pdb
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\AbstractTask.genruntimeconfig.cache
+C:\Users\User\Desktop\AbstractTask\AbstractTask\obj\Debug\net8.0\ref\AbstractTask.dll
